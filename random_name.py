@@ -2,8 +2,8 @@ from string import ascii_lowercase, ascii_letters
 from random import choice
 
 #print help(string) to see what the module does
-print ascii_letters #this contain all upper and lower case letters
-print ascii_lowercase #this contain all lower case letters
+#print ascii_letters #this contain all upper and lower case letters
+#print ascii_lowercase #this contain all lower case letters
 
 letter_input1 = raw_input("Chose a letter...'v' for vowels, 'c' for consonants, 'l' for any other letter: ")
 letter_input2 = raw_input("Chose a letter...'v' for vowels, 'c' for consonants, 'l' for any other letter: ")
